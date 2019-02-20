@@ -1,0 +1,8 @@
+Problem Statement:
+        
+ Design and develop a single page website for a fictional startup, it should have the following features:
+-It should have an interactive slider for images as the landing screen
+-It should have a contacts section with a working contact form
+-It should have a google map integrated into the contacts section with it pointing to Bangalore. 
+-Implement CSS animations in any one section.
+-The website should be aesthetically pleasing and responsive.
